@@ -12,3 +12,6 @@
 ### 1 fazer a IA jogar o jogo FOOTSIES
 ### 2 Aprimorar a IA, permitindo jogar um jogo mais complexo ainda não decidido
 ### 3 refinar performance e deliberação da IA
+
+** Algumas fontes de pesquisa para esse projeto
+*** https://www.researchgate.net/publication/308604729_Adaptive_Fighting_Game_Computer_Player_by_Switching_Multiple_Rule-Based_Controllers
