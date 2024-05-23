@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Idle', 'Kick', 'Knee', 'Special1', 'walkF']
+
+roboflow:
+  workspace: fgtest
+  project: footsiestest
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fgtest/footsiestest/dataset/7
